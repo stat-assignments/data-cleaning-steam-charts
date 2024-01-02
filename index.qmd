@@ -37,8 +37,9 @@ library(ggplot2) # load ggplot2 package
 
 General Instructions:
 
-Pick one language, R or Python, to start with. Replicating the plots in each language will earn you an additional 4 bonus points on this 10-point assignment. 
+Pick one language, R or Python, to start with.
 
+Once you've finished all of the tasks in one language, try to replicate them in the other language.
 
 ## R: Replicate the plot
 
