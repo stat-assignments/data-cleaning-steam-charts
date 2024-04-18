@@ -1,11 +1,9 @@
 ---
-title: "Homework 9: Data Manipulation"
+title: "Homework: Data Manipulation"
+execute:
+  error: true
 author: "Your Name"
-date: "Due: April 14, 2023"
-categories: hw
-format:
-  html:
-    theme: default
+output: html_document
 ---
 
 
