@@ -43,7 +43,7 @@ Once you've finished all of the tasks in one language, try to replicate them in 
 
 Your first goal (in R) is to get to this graph by breaking down the problem (replicating the graph) into smaller steps that make sense and that you can accomplish piece-by-piece.
 
-![Target plot to replicate](plot0.png)
+![Target plot to replicate - you can also see a local file if you open plot0.png](https://i.imgur.com/rbgdd3X.png)
 
 ### Problem Steps
 
@@ -77,11 +77,11 @@ from plotnine import *
 games = pd.read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2021/2021-03-16/games.csv')
 ```
 
-![Plot to replicate](plot1.png)
+![Plot to replicate - you can also open plot1.png to see a local file](https://i.imgur.com/hoTGRKW.png)
 
 This plot shows the 5 games with the most average users in March of 2020. It is ok if you can replicate this plot to the point where the legend doesn't show up properly, as in this image:
 
-![Legend not quite right](plot2.png)
+![Legend not quite right - see plot2.png in the project folder](https://i.imgur.com/t0wYCV8.png)
 
 ### Problem Steps
 Make a list of steps below that will be necessary to get the data you have into this form.
