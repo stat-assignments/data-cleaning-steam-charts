@@ -37,7 +37,7 @@ General Instructions:
 
 Pick one language, R or Python, to start with.
 
-Once you've finished all of the tasks in one language, try to replicate them in the other language.
+Once you've finished all of the tasks in one language, replicate them in the other language.
 
 ## R: Replicate the plot
 
